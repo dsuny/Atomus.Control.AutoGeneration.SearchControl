@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomus.Control.AutoGeneration.SearchControl(dotNet)", "dotNet\Atomus.Control.AutoGeneration.SearchControl(dotNet).csproj", "{14AB9C18-9930-4509-9285-5E29D7C4AF2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14AB9C18-9930-4509-9285-5E29D7C4AF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AB9C18-9930-4509-9285-5E29D7C4AF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AB9C18-9930-4509-9285-5E29D7C4AF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AB9C18-9930-4509-9285-5E29D7C4AF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D34BD66F-EF0A-469C-9052-8F62F04EAD16}
+	EndGlobalSection
+EndGlobal
